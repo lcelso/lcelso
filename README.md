@@ -25,3 +25,4 @@ Currently improving my technical skills, mainly with React, Functional / Reactiv
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/luizcelso/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_eucelso)](https://twitter.com/_eucelso)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:celsodesign@gmail.com)](mailto:celsodesign@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-@lcelso-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@lcelso/)](https://medium.com/@lcelso)
