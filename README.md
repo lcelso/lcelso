@@ -1,10 +1,10 @@
 ### Hi, I'm <del>Luiz</del> Celso, be welcome <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-I work as a Software Development Senior Analyst at [Mercado Libre](https://github.com/mercadolibre), I love to share knowledge whether speaking or writing about technology. I am currently based in São Paulo, Brazil.
+I work as an Engineering Manager at [Quinto Andar](https://github.com/quintoandar), I love sharing knowledge by speaking or writing about technology. I am currently based in São Paulo, Brazil.
 
 I have over 10 years of experience, always breathing web development, creating modern, friendly and accessible applications.
 
-In those years I had the opportunity to work with several incredible projects, Rock in Rio 2011, O Rappa (Brazilian rock band <3), Marisa Monte, Itaú, Rede, Santander, O  Boticário, among others. Working in companies like [Dafiti](https://github.com/DafitiSprint/), [Concrete Solutions](https://github.com/concretesolutions) and currently at [Mercado Libre](https://github.com/mercadolibre).
+In those years I had the opportunity to work with several incredible projects, Rock in Rio 2011, O Rappa (Brazilian rock band <3), Marisa Monte, Itaú, Rede, Santander, O  Boticário, among others. Working in companies like [Dafiti](https://github.com/DafitiSprint/), [Concrete Solutions](https://github.com/concretesolutions), [Mercado Libre](https://github.com/mercadolibre) and currently at [Quinto Andar](https://github.com/quintoandar).
 
 ### ⚡ Fun fact 
 I already lived in Santiago, Chile in 2019 and Account owner [Polyma.tech](https://www.instagram.com/polyma.tech/) on Instagram
